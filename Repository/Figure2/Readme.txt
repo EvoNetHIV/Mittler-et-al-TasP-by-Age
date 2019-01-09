@@ -1,1 +1,1 @@
-Scripts used to create Figure 2
+Scripts and sample output files for Figure 2
