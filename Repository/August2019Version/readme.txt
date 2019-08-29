@@ -1,1 +1,1 @@
-Contains parameters for experiments that differ from the Jan 2019 version.
+Contains parameters for key experiments that differ from the Jan 2019 version.
