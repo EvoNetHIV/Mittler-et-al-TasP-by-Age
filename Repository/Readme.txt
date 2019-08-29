@@ -1,3 +1,3 @@
  --- Website under construction the afternoon of August 29, 2019 ---
 
-Figure 1 is derived from data in Figure 2.
+Figures 1 and S4 are derived from the simulation experiment shown in Figure 2.  Fig S2 is derived from the high risk group experiments described in Table 3
