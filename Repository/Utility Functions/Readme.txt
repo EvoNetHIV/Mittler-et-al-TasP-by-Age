@@ -1,1 +1,1 @@
-This includes an example run script and a set of R functions used to extract key data points from our large RData objects.
+This includes an example run script and a set of R functions used to extract key data points from our large RData objects. The particular run script included here corresponds to perturbation 16 in Table 3 (80% of agents linkable).
