@@ -1,4 +1,4 @@
-This repository contains files used to construct the final (Nov 2019) versions of the paper.  Note that the folder Table 2 contains data from the older version (from Jan 2019) of the paper.  The updated version of this table has been placed in directory called Table 3.
+This repository contains files used to construct the final (Nov 2019) version of the paper.  Note that the folder Table 2 contains data from an older version (from Jan 2019) of the paper.  The updated version of this table has been placed in directory called Table 3.
 
 Scripts are located in the figure folders, the Utilties folder, and the Supplementary Files folder.
 
