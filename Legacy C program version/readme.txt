@@ -1,1 +1,1 @@
-This directory includes a older C language program that addresses the same question.  Although it lacks the elegant statnet-based network comomands, it is fast and and easy to use.
+This directory includes an older C language program that addresses the same question: i.e., whether it is advantageous to target young people for treatment. Although it lacks the elegant statnet-based network commands used by Evonet, it is fast and and easy to use.
